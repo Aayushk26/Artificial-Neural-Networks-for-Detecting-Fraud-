@@ -1,4 +1,4 @@
-# Artificial-Neural-Networks-for-Detecting-Fruad
+# Artificial-Neural-Networks-for-Detecting-Fraud
 This is a simple ANN with some techniques such as dropout regularisation to predict fraud using bank details
 - Data is taken from http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)
 - Bank data of 690 users was taken 
