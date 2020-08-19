@@ -2,6 +2,7 @@
 This is a simple ANN with some techniques such as dropout regularisation to predict fraud using bank details
 - Data is taken from http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)
 - Bank data of 690 users was taken 
+- Visualising the skew and distribution of different features and target variable
 - test size is 20 % 
 - accuracy of the model is 89.13%
 - tensorflow
